@@ -1,24 +1,18 @@
- # Not Responsive, Copied elements
 
-1. There would be slight variation in font-size and font-family in clone with respect to original website, due to tried the same font famly, size for clone of the orginal one but not able to make it same as original one .
+
+1. a) There would be slight variation in font-size and font-family in clone with respect to original website, due to tried the same font famly, size for clone of the orginal one but not able to make it same as original one .
 Trying to make font-size and font-family identical w.r.t . to original website in few updates.
 
-2. a) Container 3 from top page i.e. (One stop solution for your supply chain ) image of map is not identical w.r.t original one due to got the image from screen capture so it shows variation in background and size ,could be identiacl w.r.t original website if copied the image source. Would try to make it identical.
 
   b) Trying to make the upper border same as cure downward wr.t. identical one.
-3.Div i.e. (  how it works , for cargo owners ..... ) Copied this whole div from the source code , copied due to image source and this alignment like specific pointing , this specific pointing of laptop contains advanced features, would learn and would try to make it by my own in further updates.
+2.Div i.e. (  how it works , for cargo owners ..... ) Copied this whole div from the source code , copied due to image source and this alignment like specific pointing , this specific pointing of laptop contains advanced features, would learn and would try to make it by my own in further updates.
 
-4. Div (Industries Served ) this container is copied from the source code due to unable to get the image source .
+3. Div (Industries Served ) this container is copied from the source code due to unable to get the image source .
 
-5.Faced difficulty in div ( i.e. Grt started today ) this div is not responsive w.r.t original , trying to learn more on this advanced media queries and practice more, would try to make it identical in subsequent updates.
 
-6. It is some what difficult for me to making div ( Video of two clients ) responsive , would trying to make it identical.
+4. faced difficulty in div ( Subscribe to news letter ) in upward border , would try to make it correct.
 
-7. Div (i.e. Blogs) In this div image is not responsive as cogoport website, due to took the image from the screen capture, would make it identical in few upadtes.
-
-8. faced difficulty in div ( Subscribe to news letter ) in upward border , would try to make it correct.
-
-9.Copied the div ( last footer ) due to unable to get the image , so copied from source code.
+5.Copied the div ( last footer ) due to unable to get the image , so copied from source code.
 
 Thanking you sir , I would try to make all changes in subsequent updates and would learn advanced feature to make website responsive as identical.
 
